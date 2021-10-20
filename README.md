@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<br>
+
+- 🔭 I’m currently working on my master's thesis (Contrastive Learning with MIMIC-III)
+- 🌱 I’m currently learning the master in AI at JKU/Linz/Austria
+- 💬 Ask me about application security, machine and deep learning
+- 📫 How to reach me: juergen@plasser.net [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juergenplasser/) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/jplasser/)
+- 😄 Pronouns: he/him
+
+
 <!--
 **jplasser/jplasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
